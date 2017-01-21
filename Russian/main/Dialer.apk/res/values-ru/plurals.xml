@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="export_to_sim_failed">
+        <item quantity="other">Произошел сбой. Удалось экспортировать %d контактов</item>
+        <item quantity="one">Произошел сбой. Удалось экспортировать %d контакт</item>
+        <item quantity="few">Произошел сбой. Удалось экспортировать %d контакта</item>
+    </plurals>
+    <plurals name="export_sim_card_full">
+        <item quantity="other">SIM-карта заполнена. Экспортированы %d контактов</item>
+        <item quantity="one">SIM-карта заполнена. Экспортирован %d контакт</item>
+        <item quantity="few">SIM-карта заполнена. Экспортированы %d контакта</item>
+    </plurals>
+    <plurals name="export_cancelled">
+        <item quantity="other">Экспорт отменен. Экспортированы %d контактов</item>
+        <item quantity="one">Экспорт отменен. Экспортирован %d контакт</item>
+        <item quantity="few">Экспорт отменен. Экспортированы %d контакта</item>
+    </plurals>
+    <plurals name="spam_count_text">
+        <item quantity="other">%d человек пометили это как спам</item>
+        <item quantity="one">%d человек пометил это как спам</item>
+        <item quantity="few">%d человека пометили это как спам</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено %d контакта</item>
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d секунды</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d минуты</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+        <item quantity="few">%d сек.</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="other">%d вызовов</item>
+        <item quantity="one">%d вызов</item>
+        <item quantity="few">%d вызова</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d голосового сообщения</item>
+        <item quantity="one">%1$d голосовое сообщение</item>
+        <item quantity="few">%1$d голосовых сообщения</item>
+        <item quantity="many">%1$d голосовых сообщений</item>
+    </plurals>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d нового голосового сообщения</item>
+        <item quantity="one">%d новое голосовое сообщение</item>
+        <item quantity="few">%d новых голосовых сообщения</item>
+        <item quantity="many">%d новых голосовых сообщений</item>
+    </plurals>
+</resources>

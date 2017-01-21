@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices">
+        <item>Текущая страница</item>
+        <item>Пустая страница</item>
+        <item>Страница по умолчанию</item>
+        <item>Часто посещаемые веб-сайты</item>
+        <item>Другая</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>"%s заблокировано. "</item>
+        <item>"%1$s и %2$s заблокировано. "</item>
+        <item>"%1$s, %2$s и %3$s заблокировано. "</item>
+    </string-array>
+    <string-array name="pref_temporal_choices">
+        <item>Никогда</item>
+        <item>Только через Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+</resources>

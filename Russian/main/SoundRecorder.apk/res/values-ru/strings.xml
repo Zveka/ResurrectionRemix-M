@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recording_paused">Приостановлено</string>
+    <string name="recording_finished">Запись завершена</string>
+    <string name="error_app_unsupported">Неподдерживаемый формат.</string>
+    <string name="error_mediadb_incall">Этот параметр не поддерживается во время вызова.</string>
+    <string name="error_mediadb_aacincall">Запись вызова в формате AAC не поддерживается.</string>
+    <string name="storage_fallback">Переключение на встроенную память</string>
+    <string name="format_setting">Тип файла</string>
+    <string name="storage_setting">Место хранения</string>
+    <string name="storage_setting_local_item">Память телефона</string>
+    <string name="no_phonestorage">Память телефона не подключена</string>
+    <string name="keyboard">Клавиатура</string>
+    <string name="file_deleted">Файл был удалён</string>
+    <string name="error_app_internal_recorder">"Внутренняя ошибка.
+
+Возможно, микрофон используется другим приложением."</string>
+    <string name="view_recordings">Открыть папку записей</string>
+    <string name="denied_title">Разрешения</string>
+    <string name="perm_mic">Приложению «Диктофон» требуется доступ к микрофону для аудиозаписи.</string>
+    <string name="perm_storage">Приложению «Диктофон» требуется доступ к хранилищу для сохранения записанных файлов.</string>
+    <string name="perm_phone">Приложению «Диктофон» требуется доступ к состоянию телефона, чтобы прекращать аудиозапись во время звонка.</string>
+    <string name="perm_micstorage">Приложению «Диктофон» требуется доступ к микрофону для аудиозаписи и доступ к хранилищу для сохранения записанных файлов.</string>
+    <string name="perm_micphone">Приложению «Диктофон» требуется доступ к микрофону для аудиозаписи и доступ к состоянию телефона, чтобы прекращать аудиозапись во время звонка.</string>
+    <string name="perm_storagephone">Приложению «Диктофон» требуется доступ к хранилищу для сохранения записанных файлов и доступ к состоянию телефона, чтобы прекращать аудиозапись во время звонка.</string>
+    <string name="perm_allperms">Приложению «Диктофон» требуется доступ к микрофону для аудиозаписи, доступ к хранилищу для сохранения записанных файлов и доступ к состоянию телефона, чтобы прекращать аудиозапись во время звонка.</string>
+    <string name="perm_unknown">Ошибка разрешений. Проверьте состояние разрешений в настройках.</string>
+    <string name="ask_again">Спрашивать снова</string>
+    <string name="dismiss">Пропустить</string>
+    <string name="perm_toast">Отказано в необходимых разрешениях. Включите их в настройках, чтобы начать запись</string>
+    <string name="error_storage_access">Не удается получить доступ к SD-карте. Убедитесь, что Диктофон имеет разрешение на доступ к хранилищу</string>
+    <string name="in_call_record_error">Запись аудио во время телефонного звонка невозможна.</string>
+    <string name="button_menu">Ещё</string>
+    <string name="notification_bg_title">Запись аудио</string>
+    <string name="notification_bg_content">Диктофон записывает…</string>
+    <string name="notification_stopped_title">Запись остановлена</string>
+    <string name="notification_stopped_content">Прервано вызовом или музыкой</string>
+    <string name="bt_using_headset">Используется гарнитура Bluetooth</string>
+    <string name="bt_headset_connecting">Подключение к гарнитуре</string>
+    <string name="bt_headset_disconnected">Потеряно соединение Bluetooth</string>
+    <string name="bt_headset_timeout">Истекло время ожидания соединения Bluetooth</string>
+    <string name="app_name">Диктофон</string>
+    <string name="record_your_message">Запишите сообщение</string>
+    <string name="message_recorded">Сообщение записано</string>
+    <string name="review_message">Просмотреть сообщение</string>
+    <string name="recording">Запись</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="storage_is_full">Память заполнена</string>
+    <string name="max_length_reached">Достигнута максимальная длина</string>
+    <string name="insert_sd_card">Вставьте SD-карту</string>
+    <string name="min_available">Осталось %d мин.</string>
+    <string name="sec_available">Осталось %d сек.</string>
+    <string name="accept">Готово</string>
+    <string name="discard">Отменить</string>
+    <string name="button_ok">ОК</string>
+    <string name="audio_db_artist_name">Ваши записи</string>
+    <string name="audio_db_album_name">Аудиозаписи</string>
+    <string name="audio_db_playlist_name">Мои записи</string>
+    <string name="error_sdcard_access">Нет доступа к SD-карте.</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения.</string>
+    <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись.</string>
+</resources>

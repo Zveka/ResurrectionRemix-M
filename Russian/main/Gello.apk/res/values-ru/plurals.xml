@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_web_refiner_advertisements">
+        <item quantity="other">%d объявлений</item>
+        <item quantity="one">%d объявление</item>
+        <item quantity="few">%d объявления</item>
+    </plurals>
+    <plurals name="pref_web_refiner_trackers">
+        <item quantity="other">%d трекеров</item>
+        <item quantity="one">%d трекер</item>
+        <item quantity="few">%d трекера</item>
+    </plurals>
+    <plurals name="pref_web_refiner_malware">
+        <item quantity="other">%d угроз вредоносных программ</item>
+        <item quantity="one">%d угроза вредоносных программ</item>
+        <item quantity="few">%d угрозы вредоносных программ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_folders">
+        <item quantity="other">%1$d папок</item>
+        <item quantity="one">%1$d папка</item>
+        <item quantity="few">%1$d папки</item>
+    </plurals>
+    <plurals name="n_files">
+        <item quantity="other">%1$d файлов</item>
+        <item quantity="one">%1$d файл</item>
+        <item quantity="few">%1$d файла</item>
+    </plurals>
+    <plurals name="search_found_items">
+        <item quantity="other">Найдены %d объектов</item>
+        <item quantity="one">Найден %d объект</item>
+        <item quantity="few">Найдены %d объекта</item>
+    </plurals>
+    <plurals name="selection_folders">
+        <item quantity="other">Выбраны %1$d папок.</item>
+        <item quantity="one">Выбрана %1$d папка.</item>
+        <item quantity="few">Выбраны %1$d папки.</item>
+    </plurals>
+    <plurals name="selection_files">
+        <item quantity="other">Выбраны %1$d файлов.</item>
+        <item quantity="one">Выбран %1$d файл.</item>
+        <item quantity="few">Выбраны %1$d файла.</item>
+    </plurals>
+    <plurals name="deleting_n_items">
+        <item quantity="other">%1$d элементов будут удалены безвозвратно.</item>
+        <item quantity="one">%1$d элемент будет удалён безвозвратно.</item>
+        <item quantity="few">%1$d элемента будут удалены безвозвратно.</item>
+    </plurals>
+</resources>

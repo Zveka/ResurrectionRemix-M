@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обновления</string>
+    <string name="app_title">Обновления</string>
+    <string name="ota_category">OTA</string>
+    <string name="links_category">Ссылки</string>
+    <string name="latest_version">Последняя версия: %1$s</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="system_uptodate">Ваша система обновлена до последней версии</string>
+    <string name="check_update_title">Проверить обновления</string>
+    <string name="last_check_summary">Последняя проверка: %1$s</string>
+    <string name="last_check_never">Никогда</string>
+    <string name="check_update_failed">Невозможно проверить обновления</string>
+    <string name="no_update_available">Нет доступных обновлений</string>
+    <string name="interval_title">Интервал автоматического обновления</string>
+    <string name="interval_entry_disable">Отключено</string>
+    <string name="interval_entry_1h">Каждый час</string>
+    <string name="interval_entry_12h">Каждые 12 часов</string>
+    <string name="interval_entry_24h">Каждые 24 часа</string>
+    <string name="autoupdate_enabled">Автоматическое обновление включено</string>
+    <string name="autoupdate_disabled">Автоматическое обновление отключено</string>
+    <string name="notification_title">Обновление прошивки</string>
+    <string name="notification_message">Доступны новые обновления!</string>
+    <string name="dialog_message">Проверка обновлений, пожалуйста, подождите…</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="export_to_sim_failed">
+        <item quantity="other">Произошел сбой. Удалось экспортировать %d контактов</item>
+        <item quantity="one">Произошел сбой. Удалось экспортировать %d контакт</item>
+        <item quantity="few">Произошел сбой. Удалось экспортировать %d контакта</item>
+    </plurals>
+    <plurals name="export_sim_card_full">
+        <item quantity="other">SIM-карта заполнена. Экспортированы %d контактов</item>
+        <item quantity="one">SIM-карта заполнена. Экспортирован %d контакт</item>
+        <item quantity="few">SIM-карта заполнена. Экспортированы %d контакта</item>
+    </plurals>
+    <plurals name="export_cancelled">
+        <item quantity="other">Экспорт отменен. Экспортированы %d контактов</item>
+        <item quantity="one">Экспорт отменен. Экспортирован %d контакт</item>
+        <item quantity="few">Экспорт отменен. Экспортированы %d контакта</item>
+    </plurals>
+    <plurals name="spam_count_text">
+        <item quantity="other">%d человек пометили как спам</item>
+        <item quantity="one">%d человек пометил как спам</item>
+        <item quantity="few">%d человека пометили как спам</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено %d контактов</item>
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+    </plurals>
+    <plurals name="contacts_selected">
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+    </plurals>
+    <plurals name="ContactMultiImportConfirmation">
+        <item quantity="other">Будут импортированы %d контактов.</item>
+        <item quantity="one">Будет импортирован %d контакт.</item>
+        <item quantity="few">Будут импортированы %d контакта.</item>
+    </plurals>
+    <plurals name="import_progress">
+        <item quantity="other">Импортированы %d контактов</item>
+        <item quantity="one">Импортирован %d контакт</item>
+        <item quantity="few">Импортированы %d контакта</item>
+    </plurals>
+    <plurals name="ContactMultiDeleteConfirmation">
+        <item quantity="other">%d контактов будут удалены.</item>
+        <item quantity="one">%d контакт будет удален.</item>
+        <item quantity="few">%d контакта будут удалены.</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контактов с номером телефона</item>
+        <item quantity="one">%d контакт с номером телефона</item>
+        <item quantity="few">%d контакта с номером телефона</item>
+        <item quantity="many">%d контактов с номером телефона</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено %d контактов</item>
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Объединено %0$d контактов</item>
+        <item quantity="one">Объединен %0$d контакт</item>
+        <item quantity="few">Объединены %0$d контакта</item>
+        <item quantity="many">Объединено %0$d контактов</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групп</item>
+        <item quantity="one">%0$d группа</item>
+        <item quantity="few">%0$d группы</item>
+        <item quantity="many">%0$d групп</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d человек из %2$s</item>
+        <item quantity="one">%1$d человек из %2$s</item>
+        <item quantity="few">%1$d человека из %2$s</item>
+        <item quantity="many">%1$d человек из %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">В группе %1$d человек</item>
+        <item quantity="one">В группе %1$d человек</item>
+        <item quantity="few">В группе %1$d человека</item>
+        <item quantity="many">В группе %1$d человек</item>
+    </plurals>
+</resources>
